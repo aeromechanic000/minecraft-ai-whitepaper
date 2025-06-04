@@ -12,7 +12,7 @@ community hub for advancing in gaming.
 
 ## Whitepapers
 
-[Minecraft AI Whitepaper: Toward Embodied Turing Test through AI Characters](https://github.com/aeromechanic000/minecraft-ai-whitepapers/)
+[Minecraft AI Whitepaper: Toward Embodied Turing Test through AI Characters](https://github.com/aeromechanic000/minecraft-ai-whitepaper/blob/main/whitepapers/minecraft_ai_whitepaper-toward_embodied_turing_test_through_ai_characters.pdf)
 
 ## Primary Projects
 - [Minecraft AI](https://github.com/aeromechanic000/minecraft-ai) : This implementation is extended from the [MINDcraft](https://github.com/kolbytn/mindcraft) framework and is built on Node.js, utilizing the [Mineflayer](https://github.com/PrismarineJS/mineflayer) API. It provides fast deployment, real-time agent control, and flexible plugin support—making it especially suitable for live demos, interaction-heavy showcases, and rapid experimentation
