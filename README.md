@@ -6,6 +6,8 @@ belief that AI agents in virtual worlds like Minecraft should not only solve tas
 AI effort is twofold: an open-source project ecosystem for embodied agent development, and a vibrant
 community hub for advancing in gaming.
 
+🧜 **Meet Max**, our new AI assistant for the Minecraft AI community! Ask questions, get started with AIC profiles, or explore tutorials — Max@MinecraftAI ([Intl.](https://www.coze.com/s/ZmFp9aCtM/)/[CN](https://doubao.com/bot/8dV6HrwV)) is here to help.
+
 🦾 If you have any questions, you're welcome to join our Discord server for further discussions!
 
 <a href="https://discord.gg/RKjspnTBmb" target="_blank"><img src="https://s2.loli.net/2025/04/18/CEjdFuZYA4pKsQD.png" alt="Official Discord Server" width="180" height="36"></a>
