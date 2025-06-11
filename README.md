@@ -19,3 +19,9 @@ community hub for advancing in gaming.
 - [Minecraft AI-Python](https://github.com/aeromechanic000/minecraft-ai-python) : This Python-based implementation reimagines the same agent logic in a more research-focused environment. It prioritizes system robustness, fine-grained control, and compatibility with
 the Python scientific and AI tooling ecosystem. It is particularly well-suited for educational use, long-term
 behavioral analysis, and the development of memory-rich agents
+
+## Tools by Minecraft AI 
+- [Original Character for Minecraft AI](https://github.com/aeromechanic000/minecraft-ai-oc-creator) : A web app to create or edit the configuration of AI original character for Minecraft AI.
+- [Minecraft 3D Skin Editor](https://github.com/aeromechanic000/minecraft-skin-editor-3d) : A simple web app for create and edit minecraft skin.
+- [Flowchart Creator by Minecraft AI](https://github.com/aeromechanic000/flowchart-creator) : This is a simple web app for creating flowcharts in a Minecraft style UI.
+- [Note Assistant by Minecraft AI](https://github.com/aeromechanic000/note-assistant) : A web app to prosses note with LLM.
