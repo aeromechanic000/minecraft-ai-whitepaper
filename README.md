@@ -23,6 +23,7 @@ the Python scientific and AI tooling ecosystem. It is particularly well-suited f
 behavioral analysis, and the development of memory-rich agents
 
 ## Tools by Minecraft AI 
+- [Craft Master by Minecraft AI](https://craft-master.vercel.app/) : Minecraft meets Balatro—craft your combos, build your run.
 - [Original Character for Minecraft AI](https://github.com/aeromechanic000/minecraft-ai-oc-creator) : A web app to create or edit the configuration of AI original character for Minecraft AI.
 - [Minecraft 3D Skin Editor](https://github.com/aeromechanic000/minecraft-skin-editor-3d) : A simple web app for create and edit minecraft skin.
 - [Flowchart Creator by Minecraft AI](https://github.com/aeromechanic000/flowchart-creator) : This is a simple web app for creating flowcharts in a Minecraft style UI.
